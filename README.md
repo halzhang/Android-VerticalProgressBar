@@ -9,7 +9,8 @@ Email:[ghanguo@gmail.com](mailto:ghanguo@gmail.com)
 
 Overview
 ===
-垂直方向的ProgressBar和SeekBar
+垂直方向的ProgressBar和SeekBar<br/>
+![image](http://github.com/halzhang/Android-VerticalProgressBar/blob/master/device-2012-11-27-193805.png)
 
 Usage
 ===
